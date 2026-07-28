@@ -6,37 +6,9 @@ Currently studying **Media Technology & Design (BSc)** while expanding my knowle
 
 ---
 
-## 🚀 About Me
+I primarily work with React, TypeScript, Tailwind CSS and Next.js. Beyond development, I enjoy creating UI concepts in Figma and regularly use Notion and Krita.
 
-- 💻 Building full-stack applications
-- 🌱 Continuously learning and improving
-- 🧩 Interested in software architecture & system integration
-- 🎨 Combining technical development with UX & design
-- 📍 Austria
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-
-Java • TypeScript • JavaScript • Python • C++ • PHP • SQL
-
-### Frontend
-
-Angular • Next.js • React • HTML • CSS
-
-### Backend
-
-Node.js • Express • Symfony • REST APIs
-
-### Databases
-
-MongoDB • MySQL • Redis
-
-### Tools
-
-Docker • Git • GitHub • Figma • Unreal Engine • Unity
+Many of my projects are created for personal learning or university courses, which means only a small portion of my work is publicly available on GitHub.
 
 ---
 
@@ -46,24 +18,3 @@ Docker • Git • GitHub • Figma • Unreal Engine • Unity
 - Deepening Full-Stack knowledge
 - Learning software architecture
 - Improving clean code & best practices
-
----
-
-## 📂 Featured Projects
-
-⭐ Askalaps  
-Web-based time tracking application.
-
-⭐ Tamagotchi (Java)  
-Console application demonstrating OOP concepts.
-
-⭐ Sonolux (Website)  
-With React and Next.js.
-
----
-
-## 📫 Connect
-
-LinkedIn: *(coming soon)*
-
-Portfolio: *(coming soon)*
