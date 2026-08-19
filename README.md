@@ -7,7 +7,7 @@ Currently studying **Media Technology & Design (BSc)** while expanding my knowle
 ---
 ### About Me
 
-I primarily work with React, TypeScript, Tailwind CSS and Next.js. Beyond development, I enjoy creating UI concepts in Figma and regularly use Notion and Krita.
+I primarily work with React, TypeScript and Next.js. Beyond development, I enjoy creating UI concepts in Figma and regularly use Notion and Krita.
 
 Many of my projects are created for personal learning or university courses, which means only a small portion of my work is publicly available on GitHub.
 
