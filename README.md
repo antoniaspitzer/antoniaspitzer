@@ -11,7 +11,7 @@ I primarily work with React, TypeScript and Next.js. Beyond development, I enjoy
 
 Many of my projects are created for personal learning or university courses, which means only a small portion of my work is publicly available on GitHub.
 
-Visit my Portfolio Website on sonolux.at/antonia
+[Click here to visit my Portfolio Website](https://www.sonolux.at/antonia)
 
 ---
 
