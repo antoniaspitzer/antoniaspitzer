@@ -1,21 +1,29 @@
 {
-  "_comment": "Featured repos, in README order. Star/fork/language come live from the API on every run; the description here overrides the repo's GitHub description (all four of these currently have none set). Setting them on GitHub too is worth doing - it helps anyone browsing your repo list.",
+  "_comment": "Featured repos, in README order. Star/fork/language come live from the API on every run.",
   "projects": [
     {
-      "repo": "dossier",
-      "description": "An immersive design-engineering portfolio. Fluid scroll inertia, geometric morphing, and typography that bends toward your cursor."
+      "repo": "sonolux",
+      "description": "A modern portfolio website for Sonolux, combining clean web design with interactive visuals and a responsive user experience."
     },
     {
-      "repo": "Sage",
-      "description": "A local-first calendar that shapes your week around six productivity frameworks, with an assistant that plans according to the method you pick."
+      "repo": "PocketPet",
+      "description": "A cute pixel-art virtual pet built with Java and JavaFX, featuring interactive gameplay, custom UI components, and simple pet management."
     },
     {
-      "repo": "Socrates",
-      "description": "Learn by teaching. Explain a concept to the AI, get caught on the parts you only half-understand, and prove you actually know it."
+      "repo": "eggtimer",
+      "description": "A simple and playful productivity timer built with Java and JavaFX, designed to make focused work sessions a little more fun."
     },
     {
-      "repo": "humanOS",
-      "description": "A gamified operating system for your life. Goals as interactive orbits, habit and mood tracking, and Gemini breaking objectives into daily tasks."
+      "repo": "snake",
+      "description": "A classic Snake game built with Java, featuring a simple game loop, keyboard controls, collision detection, and score tracking."
+    },
+    {
+      "repo": "DanceHumanDance",
+      "description": "An interactive audiovisual experiment exploring real-time graphics and shader-based animation."
+    },
+    {
+      "repo": "finger-paint",
+      "description": "A playful computer vision project that uses a webcam to track hand movements and turn gestures into digital drawings."
     }
   ]
 }
