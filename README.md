@@ -149,7 +149,6 @@ My studies have given me a broad background ranging from design and UX to game d
         </picture>
       </a>
     </td>
-
     <td width="50%">
       <a href="https://github.com/antoniaspitzer/PocketPet">
         <picture>
@@ -160,7 +159,6 @@ My studies have given me a broad background ranging from design and UX to game d
       </a>
     </td>
   </tr>
-
   <tr>
     <td width="50%">
       <a href="https://github.com/antoniaspitzer/eggtimer">
@@ -171,7 +169,6 @@ My studies have given me a broad background ranging from design and UX to game d
         </picture>
       </a>
     </td>
-
     <td width="50%">
       <a href="https://github.com/antoniaspitzer/snake">
         <picture>
@@ -182,7 +179,6 @@ My studies have given me a broad background ranging from design and UX to game d
       </a>
     </td>
   </tr>
-
   <tr>
     <td width="50%">
       <a href="https://github.com/antoniaspitzer/DanceHumanDance">
@@ -193,7 +189,6 @@ My studies have given me a broad background ranging from design and UX to game d
         </picture>
       </a>
     </td>
-
     <td width="50%">
       <a href="https://github.com/antoniaspitzer/finger-paint">
         <picture>
