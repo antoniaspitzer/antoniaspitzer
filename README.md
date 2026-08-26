@@ -10,7 +10,7 @@
 
 <!-- NAME / TAGLINE - animated typing -->
 <a href="https://github.com/antoniaspitzer">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Antonia+Spitzer;Software+Engineering+%26+Web+Development;Media+Technology+%26+Design;Building+things+with+code" alt="typing banner">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Antonia+Spitzer;Web+Development;Media+Technology+%26+Design;Building+things+with+code" alt="typing banner">
 </a>
 
 <br>
