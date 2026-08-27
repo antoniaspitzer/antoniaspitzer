@@ -32,27 +32,16 @@ from pathlib import Path
 UA = {"User-Agent": "cards.py"}
 
 THEMES = {
-
     "dark": {
-        "bg": "#0d1117",
-        "border": "#4A0E1A",
-        "title": "#E06A82",
-        "text": "#F5DCE1",
-        "muted": "#B33F55",
-        "value": "#F5DCE1",
-        "accent": "#8F2A3A",
+        "bg": "#0d1117", "border": "#30363d", "title": "#E06A82",
+        "text": "#c9d1d9", "muted": "#8b949e", "value": "#e6edf3",
+        "accent": "#E06A82",
     },
-
     "light": {
-        "bg": "#ffffff",
-        "border": "#E5C1C8",
-        "title": "#611220",
-        "text": "#3B0B16",
-        "muted": "#82404D",
-        "value": "#3B0B16",
+        "bg": "#ffffff", "border": "#d0d7de", "title": "#8F2A3A",
+        "text": "#1f2328", "muted": "#57606a", "value": "#1f2328",
         "accent": "#8F2A3A",
     },
-
 }
 
 # GitHub linguist colours for the languages likely to show up here
