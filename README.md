@@ -50,7 +50,7 @@ My studies have given me a broad background ranging from design and UX to game d
 
 ## toolbox
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,nodejs,express,php,symfony,java,python,cpp,mariadb,mongodb,docker,github,figma&perline=10" alt="tech stack"> </div>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,nodejs,express,php,symfony,java,python,cpp,mongodb,docker,github,vscode,figma&perline=10" alt="tech stack"> </div>
 
 </div>
 
