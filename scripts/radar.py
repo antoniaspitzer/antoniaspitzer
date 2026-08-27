@@ -33,29 +33,29 @@ from pathlib import Path
 
 THEMES = {
     "dark": {
-        "grid": "#30363d",
-        "spoke": "#21262d",
-        "label": "#c9d1d9",
-        "value": "#8b949e",
-        "title": "#e6edf3",
-        "fill": "#39d353",
-        "stroke": "#3fb950",
-        "vertex": "#7ee787",
+        "grid": "#3B0B16",
+        "spoke": "#4A0E1A",
+        "label": "#E8B7C0",
+        "value": "#C98291",
+        "title": "#F5DCE1",
+        "fill": "#8F2A3A",
+        "stroke": "#B33F55",
+        "vertex": "#E06A82",
         "bg": "none",
     },
+
     "light": {
-        "grid": "#d0d7de",
-        "spoke": "#e6eaef",
-        "label": "#1f2328",
-        "value": "#57606a",
-        "title": "#1f2328",
-        "fill": "#2da44e",
-        "stroke": "#1a7f37",
-        "vertex": "#116329",
+        "grid": "#E8C7CD",
+        "spoke": "#F1DCE0",
+        "label": "#611220",
+        "value": "#8F4655",
+        "title": "#3B0B16",
+        "fill": "#8F2A3A",
+        "stroke": "#7A1B2A",
+        "vertex": "#B33F55",
         "bg": "none",
     },
 }
-
 UA = {"User-Agent": "radar.py"}
 
 
