@@ -34,7 +34,7 @@
 </div>
 
 Hi, I'm **Antonia Spitzer** -- a Media Technology & Design student with a growing focus on software engineering and programming.
-My studies have given me a broad background ranging from design and UX to game development, audio/video and web technologies. But the part I enjoy most is building things with code — especially web applications and software that turn an idea into something people can actually use.
+My studies have given me a broad background ranging from design and UX to game development, audio/video and web technologies. But the part I enjoy most is building things with code -- especially web applications and software that turn an idea into something people can actually use.
 
 - Studying **Media Technology & Design (BSc)** at FH Hagenberg
 - Interested in Software Engineering, Full-Stack Development & Programming
