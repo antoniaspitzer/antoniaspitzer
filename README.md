@@ -37,6 +37,7 @@ Hi, I'm **Antonia Spitzer** -- a Media Technology & Design student with a growin
 My studies have given me a broad background ranging from design and UX to game development, audio/video and web technologies. But the part I enjoy most is building things with code -- especially web applications and software that turn an idea into something people can actually use.
 
 - Studying **Media Technology & Design (BSc)** at FH Hagenberg
+- Currently traveling around (international Minor Program)
 - Interested in Software Engineering, Full-Stack Development & Programming
 - Portfolio: **[Click here](https://www.sonolux.at/antonia)**
 - Long-term goal: continue into **Software Engineering** and pursue the **SE Master's programme** at FH Hagenberg
